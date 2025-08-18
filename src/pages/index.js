@@ -11,32 +11,40 @@ import Footer from "@/components/Footer/Footer";
 export default function Home() {
   return (
     <>
-      {/* section 1 */}
-      <Navbar />
+      <div className="overflow-hidden">
+        {/* section 1 */}
+        <Navbar />
 
-      {/* section 2 */}
-      <Banner />
+        {/* section 2 */}
+        <Banner />
 
-      {/* section 3 */}
-      <OurService />
+        {/* section 3 */}
+        <div id="features-section">
+          <OurService />
+        </div>
 
-      {/* section 4 */}
-      <OurServiceSecound />
+        {/* section 4 */}
+        {/* <OurServiceSecound /> */}
 
-      {/* section 5 */}
-      <Generate />
+        {/* section 5 */}
+        <div id="generate-section">
+          <Generate />
+        </div>
 
-      {/* section 6 */}
-      <Pricing />
+        {/* section 6 */}
+        {/* <Pricing /> */}
 
-      {/* section 7 */}
-      <FAQS />
+        {/* section 7 */}
+        <div id="faq-section">
+          <FAQS />
+        </div>
 
-      {/* section 8 */}
-      <Future />
+        {/* section 8 */}
+        <Future />
 
-      {/* section 8 */}
-      <Footer />
+        {/* section 8 */}
+        <Footer />
+      </div>
     </>
   );
 }

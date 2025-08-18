@@ -14,10 +14,6 @@ export default function Generate() {
           <h2 className="mb-[14px] max-[991px]:mb-[10px] text-[#181059]">
             Visualise your ideas in three easy steps
           </h2>
-          <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.
-          </p>
         </div>
         <div>
           <div className="bg-[linear-gradient(180deg,_#E1D3FF_-9.28%,_#F5F0FF_111.81%)] rounded-[18px] border border-[#B193F3] p-[30px] max-[480px]:p-[20px]">

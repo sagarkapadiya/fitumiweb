@@ -19,6 +19,11 @@ body {
   background-size: cover;
   background-position: top; */
   overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+html {
+  scroll-behavior: smooth !important;
 }
 
 .container {
@@ -32,7 +37,12 @@ ul {
   list-style: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   text-transform: capitalize;
 }
 
@@ -134,8 +144,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 50px;
-  line-height: 60px;
+  font-size: 40px;
+  line-height: 50px;
   font-weight: 700;
 }
 
@@ -331,8 +341,8 @@ p {
 
 @media (max-width: 1280px) {
   h1 {
-    font-size: 46px;
-    line-height: 56px;
+    font-size: 38px;
+    line-height: 46px;
   }
 
   h3 {
@@ -391,8 +401,8 @@ p {
   }
 
   h1 {
-    font-size: 40px;
-    line-height: 50px;
+    font-size: 38px;
+    line-height: 48px;
   }
 
   h3 {
@@ -413,8 +423,8 @@ p {
 
 @media (max-width: 767px) {
   h1 {
-    font-size: 36px;
-    line-height: 46px;
+    font-size: 34px;
+    line-height: 44px;
   }
 
   h3 {
