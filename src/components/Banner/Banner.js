@@ -39,6 +39,7 @@ export default function Banner() {
               <video
                 autoPlay
                 muted
+                playsInline
                 loop
                 className="w-full h-full rounded-[15px]"
                 src="/assets/Hero_Video.mp4"
