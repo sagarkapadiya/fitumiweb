@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Pricing() {
   return (
-    <section id="pricing-section" className="relative p-[0_0_130px] max-[991px]:p-[0_0_80px] max-[480px]:p-[0_0_60px]">
+    <section id="pricing-section" className="relative p-[0_0_80px] max-[991px]:p-[0_0_80px] max-[480px]:p-[0_0_60px]">
       <div className="container">
         <div className="text-center mb-[50px] max-[991px]:mb-[30px]">
           <div className="common_head !mb-[30px] max-[991px]:!mb-[20px]">

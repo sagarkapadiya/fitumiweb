@@ -8,7 +8,7 @@ import {
 
 export default function FAQS() {
   return (
-    <section className="relative p-[0_0_130px] max-[991px]:p-[0_0_80px] max-[480px]:p-[0_0_60px]">
+    <section className="relative p-[0_0_80px] max-[991px]:p-[0_0_80px] max-[480px]:p-[0_0_60px]">
       <div className="max-w-[1000px] w-full px-4 mx-auto">
         <div className="text-center mb-[50px] max-[991px]:mb-[30px]">
           <div className="common_head !mb-[30px] max-[991px]:!mb-[20px]">
