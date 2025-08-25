@@ -7,6 +7,7 @@ import Pricing from "@/components/Pricing/Pricing";
 import FAQS from "@/components/FAQs/FAQS";
 import Future from "@/components/Future/Future";
 import Footer from "@/components/Footer/Footer";
+import Benefit from "@/components/Benefit/Benefit";
 
 export default function Home() {
   return (
@@ -36,6 +37,8 @@ export default function Home() {
           <Pricing />
         </section>
 
+        <Benefit />
+        
         {/* section 7 */}
         <div id="faq-section">
           <FAQS />
@@ -43,6 +46,7 @@ export default function Home() {
 
         {/* section 8 */}
         <Future />
+
 
         {/* section 8 */}
         <Footer />

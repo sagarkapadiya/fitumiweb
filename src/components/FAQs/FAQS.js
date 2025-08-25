@@ -32,7 +32,7 @@ export default function FAQS() {
                 Can I cancel my subscription anytime?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 Yes, you’re free to cancel your subscription whenever you like. You’ll continue to have access until the end of your billing cycle, and there are no penalties or fees for canceling.
               </AccordionContent>
@@ -45,7 +45,7 @@ export default function FAQS() {
                 Can I purchase extra credits if I run out?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 Definitely! You can restart your plan at any time and instantly get new credits. We offer three subscription tiers with varying limits, so you can select the one that fits your usage.
               </AccordionContent>
@@ -58,7 +58,7 @@ export default function FAQS() {
                 Who holds the rights to the renders created on Fitumi?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 The renders you create with your original sketches are fully owned by you. If you're using your own designs, you retain full copyright. Please be mindful that using third-party images or sketches could violate copyright laws if the original work is recognizable in your renders.
               </AccordionContent>
@@ -71,7 +71,7 @@ export default function FAQS() {
                 Do I need any special expertise to use Fitumi?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 No, Fitumi is designed to be user-friendly and accessible to all, regardless of technical skills. Whether you’re a designer, manufacturer, or brand owner, the platform is intuitive and easy to use.
               </AccordionContent>
@@ -84,7 +84,7 @@ export default function FAQS() {
                 What happens to my designs if I cancel my subscription?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 Your designs will remain accessible until the end of your paid period. After that, access will be restricted and you may lose your designs. It’s a good idea to download any important designs before your subscription expires.
               </AccordionContent>
@@ -97,7 +97,7 @@ export default function FAQS() {
                 Can I upload my own fabric designs to Fitumi?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 Yes! Fitumi’s Fabric Changer tool lets you upload custom fabric images, allowing you to apply them to your designs for a realistic preview. This feature is perfect for experimenting with different materials and textures.
               </AccordionContent>
@@ -110,7 +110,7 @@ export default function FAQS() {
                 How does Fitumi help save on photoshoot expenses?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 With tools like Sketch to Photo, fabric changer and  background changer Fitumi enables you to create realistic, high-quality images of your designs without needing to produce physical samples or hire professional photographers. This helps cut down on costly photoshoots.
               </AccordionContent>
@@ -123,7 +123,7 @@ export default function FAQS() {
                 Is there a free trial available for Fitumi?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 Yes, we offer a free trial so you can explore Fitumi’s features risk-free. It allows you to try out our tools and services before committing to a paid subscription.
               </AccordionContent>
@@ -136,7 +136,7 @@ export default function FAQS() {
                 Can I change my subscription plan later on?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 Yes, you can adjust your subscription at any time. Whether you want to upgrade for more features or downgrade to a more basic plan, the changes will take effect at the start of your next billing cycle.
               </AccordionContent>
@@ -149,7 +149,7 @@ export default function FAQS() {
                 Does Fitumi only serve fashion designers?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 No, Fitumi is designed for a variety of professionals, including designers, manufacturers, brands, and even fabric printing companies. Our tools are flexible enough to serve the needs of the entire fashion and textile industry.
               </AccordionContent>
@@ -162,7 +162,7 @@ export default function FAQS() {
                 What kind of support does Fitumi offer to its users?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 We currently support our customers through contact form. Our team is here to ensure you get the most out of Fitumi’s tools.
               </AccordionContent>
@@ -175,7 +175,7 @@ export default function FAQS() {
                 What happens when I hit my credit limit for the month?
               </AccordionTrigger>
               <AccordionContent
-                className={`text-[#06001399] mt-[16px] mb-0 pb-0`}
+                className={`text-[#06001399] mt-[16px] mb-0 pb-0 text-base`}
               >
                 If you reach your monthly credit limit, you can buy additional credits or upgrade to a plan with a higher credit limit. This ensures you can keep working without disruption.
               </AccordionContent>

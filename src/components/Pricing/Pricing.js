@@ -190,10 +190,10 @@ export default function Pricing() {
         </div>
         <div className="text-center">          
           <div className="relative inline-block">
-            <button className="p-[18px_27px] inline-flex items-center gap-[12px] border border-[#e6e6e6] shadow-[0px_1px_10px_0px_#1F222914] rounded-[48px] max-[580px]:p-[10px_22px]">
-              {/* <img src="/assets/demo-icon.svg" alt="demo-icon" /> */}
+            {/* <button className="p-[18px_27px] inline-flex items-center gap-[12px] border border-[#e6e6e6] shadow-[0px_1px_10px_0px_#1F222914] rounded-[48px] max-[580px]:p-[10px_22px]">
+              <img src="/assets/demo-icon.svg" alt="demo-icon" />
               Try free demo
-            </button>           
+            </button>            */}
           </div>
         </div>
       </div>
