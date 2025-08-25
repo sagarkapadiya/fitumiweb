@@ -11,9 +11,9 @@ import Footer from "@/components/Footer/Footer";
 export default function Home() {
   return (
     <>
+      <Navbar />
       <div className="overflow-hidden">
         {/* section 1 */}
-        <Navbar />
 
         {/* section 2 */}
         <Banner />
@@ -27,12 +27,14 @@ export default function Home() {
         {/* <OurServiceSecound /> */}
 
         {/* section 5 */}
-        <div id="generate-section">
+        {/* <div id="generate-section">
           <Generate />
-        </div>
+        </div> */}
 
         {/* section 6 */}
-        {/* <Pricing /> */}
+        <section id='pricing-section'>
+          <Pricing />
+        </section>
 
         {/* section 7 */}
         <div id="faq-section">

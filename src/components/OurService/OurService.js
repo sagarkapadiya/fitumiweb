@@ -15,7 +15,7 @@ export default function OurService() {
             Our Service
           </h2>
         </div>
-        <div className="mb-[50px]">
+        <div className="mb-[50px]" id="create-image">
           <div className="bg-[#EFE9FF] p-[30px] rounded-[40px] max-[480px]:p-[20px]">
             <div className="text-center mb-[20px]">
               <h4 className="mb-[14px] max-[991px]:mb-[10px] text-[#181059]">
@@ -39,17 +39,15 @@ export default function OurService() {
                       playsInline
                       loop
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Fabric_Garment.mov"
+                      src="/assets/Text_Garment.mov"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Fabric To Garment
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
+                    Text To Garment
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                  </p>
                 </div>
               </div>
+
               <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
                 <div className="max-[991px]:order-2">
                   <div className="rounded-[5px] overflow-hidden mb-4">
@@ -62,12 +60,9 @@ export default function OurService() {
                       src="/assets/Sketch_Garment.mov"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
                     Sketch To Garment
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                  </p>
                 </div>
               </div>
               <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
@@ -79,15 +74,12 @@ export default function OurService() {
                       playsInline
                       loop
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Text_Garment.mov"
+                      src="/assets/Fabric_Garment.mov"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Text To Garment
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
+                    Fabric To Garment
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                  </p>
                 </div>
               </div>
             </div>
@@ -96,7 +88,7 @@ export default function OurService() {
             </div>
           </div>
         </div>
-        <div className="mb-[50px]">
+        <div className="mb-[50px]" id="edit-tools">
           <div className="bg-[#EFE9FF] p-[30px] rounded-[40px] max-[480px]:p-[20px]">
             <div className="text-center mb-[20px]">
               <h4 className="mb-[14px] max-[991px]:mb-[10px] text-[#181059]">
@@ -118,18 +110,16 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
+                      src="/assets/Color_Changer.mov"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Pose_Changer.mov"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Model Pose Fixer
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
+                    Color Changer
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Adjust the posture or angle to better match your vision
-                  </p>
                 </div>
               </div>
+
               <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
                 <div className="max-[991px]:order-2">
                   <div className="rounded-[5px] overflow-hidden mb-4">
@@ -140,15 +130,11 @@ export default function OurService() {
                       loop
                       src="/assets/Fabric_Changer.mov"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                    ></video>
+                    ></video>                    
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
                     Fabric Changer
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Swap fabric textures while keeping the shape and drape
-                    intact
-                  </p>
                 </div>
               </div>
               <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
@@ -159,25 +145,23 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
-                      src="/assets/Color_Changer.mov"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
+                      src="/assets/Pose_Changer.mov"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Color Changer
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
+                    Model Pose Fixer
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Instantly change garment colors to explore different looks
-                  </p>
                 </div>
               </div>
+
             </div>
             <div className="text-center mt-5">
               <button className="site_btn mx-auto">Try now for free</button>
             </div>
           </div>
         </div>
-        <div className="mb-[50px]">
+        <div className="mb-[50px]" id="ai-background">
           <div className="bg-[#EFE9FF] p-[30px] rounded-[40px] max-[480px]:p-[20px]">
             <div className="text-center mb-[20px]">
               <h4 className="mb-[14px] max-[991px]:mb-[10px] text-[#181059]">
@@ -202,13 +186,10 @@ export default function OurService() {
                       src="/assets/Remove_Background.mov"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
                     Remove Background
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Instantly cut out distractions for a clean, professional
-                    image.
-                  </p>
+
                 </div>
               </div>
               <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
@@ -223,12 +204,10 @@ export default function OurService() {
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
                     Create Background
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Generate stunning, AI-made scenes that match your vision
-                  </p>
+
                 </div>
               </div>
               <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
@@ -243,13 +222,10 @@ export default function OurService() {
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
+                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
                     Change Background
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Swap any setting in seconds to match your design style or
-                    campaign theme.
-                  </p>
+
                 </div>
               </div>
             </div>
@@ -258,7 +234,7 @@ export default function OurService() {
             </div>
           </div>
         </div>
-        <div className="mb-[50px]">
+        <div className="mb-[50px]" id="ai-video">
           <div className="bg-[#EFE9FF] p-[30px] rounded-[40px] max-[480px]:p-[20px]">
             <div className="text-center mb-[20px]">
               <h4 className="mb-[14px] max-[991px]:mb-[10px] text-[#181059]">
@@ -333,6 +309,7 @@ export default function OurService() {
                     Swap any setting in seconds to match your design style or
                     campaign theme.
                   </p>
+
                 </div>
               </div>
             </div>
@@ -341,87 +318,36 @@ export default function OurService() {
             </div>
           </div>
         </div>
-        <div>
+        <div id='graphic-design'>
           <div className="bg-[#EFE9FF] p-[30px] rounded-[40px] max-[480px]:p-[20px]">
-            <div className="text-center mb-[20px]">
-              <h4 className="mb-[14px] max-[991px]:mb-[10px] text-[#181059]">
-                Graphic Design, The Fitumi Way
-              </h4>
-              <p className="max-w-[991px] mx-auto">
-                Oh, and here’s the twist — Fitumi isn’t just for garments. Design
-                bold T-shirt graphics, intricate embroidery patterns, striking
-                embossing, and custom stickers. Whether you’re branding,
-                personalizing, or experimenting, our AI makes it effortless and
-                production-ready
-              </p>
-            </div>
-            <div className="grid grid-cols-3 gap-5 max-[1280px]:grid-cols-2 max-[767px]:grid-cols-1">
-              <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
-                <div className="max-[991px]:order-2">
-                  <div className="rounded-[5px] overflow-hidden mb-4">
-                    <video
-                      autoPlay
-                      muted
-                      playsInline
-                      loop
-                      className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Fabric_Garment.mov"
-                    ></video>
-                  </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Fabric To Garment
-                  </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Instantly cut out distractions for a clean, professional
-                    image.
-                  </p>
+            <div className="flex items-center gap-5">
+              <div className=" mb-[20px] w-[70%]">
+                <h4 className="mb-[14px] max-[991px]:mb-[10px] text-[#181059]">
+                  Graphic Design, The Fitumi Way
+                </h4>
+                <p className="max-w-[991px] mx-auto">
+                  Oh, and here’s the twist — Fitumi isn’t just for garments. Design
+                  bold T-shirt graphics, intricate embroidery patterns, striking
+                  embossing, and custom stickers. Whether you’re branding,
+                  personalizing, or experimenting, our AI makes it effortless and
+                  production-ready
+                </p>
+                <div className="text-center mt-5">
+                  <button className="site_btn">Try now for free</button>
                 </div>
               </div>
-              <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
-                <div className="max-[991px]:order-2">
-                  <div className="rounded-[5px] overflow-hidden mb-4">
-                    <video
-                      autoPlay
-                      muted
-                      playsInline
-                      loop
-                      className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Sketch_Garment.mov"
-                    ></video>
-                  </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Sketch To Garment
-                  </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Generate stunning, AI-made scenes that match your vision
-                  </p>
-                </div>
-              </div>
-              <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
-                <div className="max-[991px]:order-2">
-                  <div className="rounded-[5px] overflow-hidden mb-4">
-                    <video
-                      autoPlay
-                      muted
-                      playsInline
-                      loop
-                      className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Text_Garment.mov"
-                    ></video>
-                  </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Text To Garment
-                  </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Swap any setting in seconds to match your design style or
-                    campaign theme.
-                  </p>
-                </div>
+              <div className="relative bg-[var(--white)] p-[25px] border border-[#EDEAF3] max-[480px]:p-[25px_15px] rounded-[5px] overflow-hidden mb-4 w-[30%]">
+                <video
+                  autoPlay
+                  muted
+                  playsInline
+                  loop
+                  src="/assets/Graphic_Design.mp4"
+                  className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
+                ></video>
               </div>
             </div>
-            <div className="text-center mt-5">
-              <button className="site_btn mx-auto">Try now for free</button>
-            </div>
+
           </div>
         </div>
       </div>

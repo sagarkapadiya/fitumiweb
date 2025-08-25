@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Pricing() {
   return (
-    <section className="relative p-[0_0_130px] max-[991px]:p-[0_0_80px] max-[480px]:p-[0_0_60px]">
+    <section id="pricing-section" className="relative p-[0_0_130px] max-[991px]:p-[0_0_80px] max-[480px]:p-[0_0_60px]">
       <div className="container">
         <div className="text-center mb-[50px] max-[991px]:mb-[30px]">
           <div className="common_head !mb-[30px] max-[991px]:!mb-[20px]">
@@ -188,19 +188,12 @@ export default function Pricing() {
             </ul>
           </div>
         </div>
-        <div className="text-center">
-          <h6 className="mb-[40px] max-[767px]:mb-[20px]">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.
-          </h6>
+        <div className="text-center">          
           <div className="relative inline-block">
             <button className="p-[18px_27px] inline-flex items-center gap-[12px] border border-[#e6e6e6] shadow-[0px_1px_10px_0px_#1F222914] rounded-[48px] max-[580px]:p-[10px_22px]">
-              <img src="/assets/demo-icon.svg" alt="demo-icon" />
+              {/* <img src="/assets/demo-icon.svg" alt="demo-icon" /> */}
               Try free demo
-            </button>
-            <div className="absolute right-[-170px] top-[30px] max-[991px]:hidden">
-              <img src="/assets/button-text.svg" />
-            </div>
+            </button>           
           </div>
         </div>
       </div>

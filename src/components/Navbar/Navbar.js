@@ -16,15 +16,17 @@ export default function Navbar() {
   }, [isActive]);
 
   return (
-    <header className="navbar p-[10px_0] bg-[var(--purple)] relative z-10">
+    <header className="navbar p-[10px_0] bg-[var(--purple)] sticky top-0 z-10">
       <div className="container">
         <div className="flex items-center justify-between gap-[20px]">
           <div className="h-[50px]">
-            <img
-              className="h-full object-cover w-[110px]"
-              src="/assets/logo.png"
-              alt="logo"
-            />
+            <a href="/">
+              <img
+                className="h-full object-cover w-[110px]"
+                src="/assets/logo.png"
+                alt="logo"
+              />
+            </a>
           </div>
           <div
             className={`relative transition duration-75 ease-in-out p-[8px_20px] border border-[#FFFFFF14] rounded-[50px] bg-[#FFFFFF05] max-[991px]:fixed max-[991px]:border-0 max-[991px]:bg-[#EFE9FF] max-[991px]:!rounded-none max-[991px]:top-0 max-[991px]:left-[-100%] max-[991px]:p-[30px] max-[991px]:h-[100vh] max-[991px]:max-w-[400px] max-[991px]:w-full max-[991px]:flex max-[991px]:items-center max-[991px]:justify-center ${isActive ? "!left-0" : ""
@@ -33,39 +35,47 @@ export default function Navbar() {
             <ul className="flex justify-center gap-[23px] max-[991px]:flex-col max-[991px]:items-center">
               <li>
                 <a
-                  href="#generate-section"
+                  href="#create-image"
                   className="text-[var(--white)] text-[14px] leading-[20px] font-[400] max-[991px]:text-[var(--black)] max-[991px]:text-[18px] max-[991px]:leaading-[26px] max-[991px]:font-[500]"
                 >
-                  How it works
+                  Design
                 </a>
               </li>
               <li>
                 <a
-                  href={"/"}
+                  href="#edit-tools"
                   className="text-[var(--white)] text-[14px] leading-[20px] font-[400] max-[991px]:text-[var(--black)] max-[991px]:text-[18px] max-[991px]:leaading-[26px] max-[991px]:font-[500]"
                 >
-                  Use cases
+                  Edit Tools
                 </a>
               </li>
               <li>
                 <a
-                  href="#features-section"
+                  href="#ai-background"
                   className="text-[var(--white)] text-[14px] leading-[20px] font-[400] max-[991px]:text-[var(--black)] max-[991px]:text-[18px] max-[991px]:leaading-[26px] max-[991px]:font-[500]"
                 >
-                  Features
+                  Background
                 </a>
               </li>
               <li>
                 <a
-                  href={"/"}
+                  href="#ai-video"
                   className="text-[var(--white)] text-[14px] leading-[20px] font-[400] max-[991px]:text-[var(--black)] max-[991px]:text-[18px] max-[991px]:leaading-[26px] max-[991px]:font-[500]"
                 >
-                  About us
+                  Video
                 </a>
               </li>
               <li>
                 <a
-                  href={"/"}
+                  href="#graphic-design"
+                  className="text-[var(--white)] text-[14px] leading-[20px] font-[400] max-[991px]:text-[var(--black)] max-[991px]:text-[18px] max-[991px]:leaading-[26px] max-[991px]:font-[500]"
+                >
+                  Graphic Design
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#pricing-section"
                   className="text-[var(--white)] text-[14px] leading-[20px] font-[400] max-[991px]:text-[var(--black)] max-[991px]:text-[18px] max-[991px]:leaading-[26px] max-[991px]:font-[500]"
                 >
                   Pricing

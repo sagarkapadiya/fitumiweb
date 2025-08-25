@@ -2,18 +2,10 @@ import React from "react";
 
 export default function Banner() {
   return (
-    <section className="p-[60px_0_100px] relative max-[991px]:p-[60px_0_80px] max-[480px]:p-[40px_0_60px]">
+    <section className="p-[60px_0_80px] relative max-[991px]:p-[60px_0_80px] max-[480px]:p-[40px_0_60px]">
       <div className="container">
         <div className="flex gap-[30px] max-[991px]:flex-col">
-          <div className=" w-[470px] m-[0_auto] max-[1280px]:w-[450px] max-[991px]:w-full">
-            <div className="text mb-[40px] max-[1280px]:mb-[20px]">
-              <div className="common_head !mb-0">
-                <div className="common_head_inner">
-                  <img src="/assets/heading_icon.svg" alt="heading-icon" />
-                  <h6>New: Our AI integration just landed</h6>
-                </div>
-              </div>
-            </div>
+          <div className=" w-[470px] m-[0_auto] max-[1280px]:w-[450px] max-[991px]:w-full">           
             <h1 className="mb-[12px]">Create Your Own Fashion Show</h1>
             <p className="text-[#4a5565] text-justify text-base">
               Design like a pro with Fitumi, you have every tool you need to
