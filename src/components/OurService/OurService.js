@@ -39,7 +39,7 @@ export default function OurService() {
                       playsInline
                       loop
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Text_Garment.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Text%20to%20Garment.mp4"
                     ></video>
                   </div>
                   <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
@@ -57,7 +57,7 @@ export default function OurService() {
                       playsInline
                       loop
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Sketch_Garment.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Sketch%20to%20Garment.mp4"
                     ></video>
                   </div>
                   <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
@@ -74,7 +74,7 @@ export default function OurService() {
                       playsInline
                       loop
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Fabric_Garment.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Fabric%20to%20Garment.mp4"
                     ></video>
                   </div>
                   <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
@@ -110,7 +110,7 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
-                      src="/assets/Color_Changer.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Color%20Changer.mp4"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
                     ></video>
                   </div>
@@ -128,9 +128,9 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
-                      src="/assets/Fabric_Changer.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Fabric%20Changer.mp4"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                    ></video>                    
+                    ></video>
                   </div>
                   <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
                     Fabric Changer
@@ -146,7 +146,7 @@ export default function OurService() {
                       playsInline
                       loop
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Pose_Changer.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Pose%20Changer.mp4"
                     ></video>
                   </div>
                   <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
@@ -183,7 +183,7 @@ export default function OurService() {
                       playsInline
                       loop
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Remove_Background.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Remove%20Background.mp4"
                     ></video>
                   </div>
                   <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px] text-center">
@@ -200,7 +200,7 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
-                      src="/assets/Create_Background.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Create%20Background.mp4"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
                     ></video>
                   </div>
@@ -218,7 +218,7 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
-                      src="/assets/Change_Background.mov"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Change%20Background.mp4"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
                     ></video>
                   </div>
@@ -238,14 +238,10 @@ export default function OurService() {
           <div className="bg-[#EFE9FF] p-[30px] rounded-[40px] max-[480px]:p-[20px]">
             <div className="text-center mb-[20px]">
               <h4 className="mb-[14px] max-[991px]:mb-[10px] text-[#181059]">
-                AI Video
+                Image to Video
               </h4>
               <p className="max-w-[991px] mx-auto">
-                From Still to Stunning Motion Your perfect photo is just the
-                beginning. With Fitumi, transform any still image into a
-                captivating video — all with a simple prompt and a single click.
-                Watch your designs come to life in motion, ready to grab attention
-                on runways, social media, and campaigns.
+                Bring your still images to life. With Fitumi’s Image-to-Video tool, you can transform any garment photo into a high-quality video that feels like a real fashion shoot. Whether it’s for product pages, social media, or investor presentations, Fitumi makes your designs move.
               </p>
             </div>
             <div className="grid grid-cols-3 gap-5 max-[1280px]:grid-cols-2 max-[767px]:grid-cols-1">
@@ -257,17 +253,13 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Runway%20video.mp4"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                      src="/assets/Graphic_Design.mp4"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Remove Background
+                  <h4 className="text-[#1F1F20] text-center text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
+                    Runway Video
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Instantly cut out distractions for a clean, professional
-                    image.
-                  </p>
                 </div>
               </div>
               <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
@@ -278,16 +270,13 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
-                      src="/assets/Graphic_Design.mp4"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Studio%20Shot%20with%20Ai.mp4"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Create Background
+                  <h4 className="text-[#1F1F20] text-center text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
+                    Studio Shot with Ai
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Generate stunning, AI-made scenes that match your vision
-                  </p>
                 </div>
               </div>
               <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
@@ -298,18 +287,13 @@ export default function OurService() {
                       muted
                       playsInline
                       loop
-                      src="/assets/Graphic_Design.mp4"
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/360%20Garment%20view.mp4"
                       className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
                     ></video>
                   </div>
-                  <h4 className="text-[#1F1F20] text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
-                    Change Background
+                  <h4 className="text-[#1F1F20] text-center text-[22px] leading-[30px] font-[700] max-[580px]:text-[20px] max-[580px]:leading-[28px] max-[480px]:text-[18px] max-[480px]:leading-[26px]">
+                    360 Garment view
                   </h4>
-                  <p className="m-[8px_0_0] text-[#06001399] max-[480px]:m-[5px_0_12px] text-[12px] leading-[18px]">
-                    Swap any setting in seconds to match your design style or
-                    campaign theme.
-                  </p>
-
                 </div>
               </div>
             </div>
@@ -336,15 +320,19 @@ export default function OurService() {
                   <button className="site_btn">Try now for free</button>
                 </div>
               </div>
-              <div className="relative bg-[var(--white)] p-[25px] border border-[#EDEAF3] max-[480px]:p-[25px_15px] rounded-[5px] overflow-hidden mb-4 w-[30%]">
-                <video
-                  autoPlay
-                  muted
-                  playsInline
-                  loop
-                  src="/assets/Graphic_Design.mp4"
-                  className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
-                ></video>
+              <div className="relative bg-[var(--white)] p-[25px] rounded-[13px] border border-[#EDEAF3] max-[480px]:p-[25px_15px]">
+                <div className="max-[991px]:order-2">
+                  <div className="rounded-[5px] overflow-hidden mb-4">
+                    <video
+                      autoPlay
+                      muted
+                      playsInline
+                      loop
+                      src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Graphic%20Design.mp4"
+                      className="w-full h-[338px] object-cover max-[1301px]:h-[240px] max-[1280px]:h-[340px] max-[991px]:h-[300px] max-[767px]:h-[390px] object-top max-[480px]:h-[240px]"
+                    ></video>
+                  </div>
+                </div>
               </div>
             </div>
 

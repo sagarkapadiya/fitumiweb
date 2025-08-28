@@ -34,7 +34,7 @@ export default function Banner() {
                 playsInline
                 loop
                 className="w-full h-full rounded-[15px]"
-                src="/assets/Hero_Video.mp4"
+                src="https://d1xomwsr4rcahc.cloudfront.net/landing-page/video/Hero%20Video.mp4"
               ></video>
               {/* <img
               className="absolute top-[50%] left-[50%] transform -translate-x-1/2 -translate-y-1/2 w-[250px] h-[250px] max-[991px]:w-[200px] max-[991px]:h-[200px] max-[767px]:w-[150px] max-[767px]:h-[150px] max-[480px]:w-[100px] max-[480px]:h-[100px]"

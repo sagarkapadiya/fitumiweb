@@ -19,7 +19,7 @@ export default function Navbar() {
     <header className="navbar p-[10px_0] bg-[var(--purple)] sticky top-0 z-10">
       <div className="container">
         <div className="flex items-center justify-between gap-[20px]">
-          <div className="h-[50px]">
+          <div className="">
             <a href="/">
               <img
                 className="h-full object-cover w-[110px]"

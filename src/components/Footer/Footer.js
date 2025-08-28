@@ -12,14 +12,9 @@ export default function Footer() {
       <div className="container">
         <div className="grid grid-cols-4 max-[767px]:grid-cols-2 gap-[26px] py-14">
           <div className="h-full">
-            <div className="max-w-[350px] ml-auto">
-              <a href="/">
-              <img src="/assets/logo.svg" />
-              </a>
-              <h6 className="text-[var(--white)] mt-[20px] !font-[400]">
-                {/* World’s leading vocal generator and transformer. */}
-              </h6>
-            </div>
+            <a href="/" className="block max-w-[150px] w-full">
+              <img src="/assets/logo.png" />
+            </a>
           </div>
           <div>
             <h5 className="text-[20px] leading-[30px] text-[var(--white)] mb-[20px]">
