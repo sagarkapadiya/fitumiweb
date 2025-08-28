@@ -3,7 +3,7 @@ import React from 'react'
 const Benefit = () => {
     return (
         <div className='p-[0_0_80px]'>
-            <div className='bg-gray-50 py-10 '>
+            <div className='bg-[#EFE9FF] py-12'>
                 <div className='container'>
                     <div className='text-center mb-10'>
                         <h2 className='mb-3'>Measurable Benefits & ROI</h2>
