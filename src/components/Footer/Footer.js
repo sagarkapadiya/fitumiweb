@@ -101,28 +101,10 @@ export default function Footer() {
               </li>
             </ul>
           </div>
-          {/* <div className="p-[24px_0]">
-            <ul className="flex justify-center gap-[50px] max-[580px]:flex-wrap max-[580px]:gap-[20px_30px]">
-              <li>
-                <img src="/assets/visa-icon.svg" />
-              </li>
-              <li>
-                <img src="/assets/paypal-icon.svg" />
-              </li>
-              <li>
-                <img src="/assets/gpay-icon.svg" />
-              </li>
-              <li>
-                <img src="/assets/applepay-icon.svg" />
-              </li>
-              <li>
-                <img src="/assets/meta-icon.svg" />
-              </li>
-              <li>
-                <img src="/assets/express-icon.svg" />
-              </li>
-            </ul>
-          </div> */}
+        </div>
+        <div className="copyright-section mb-6 flex items-center justify-between">
+          <p className="!text-white">© 2025 Fitumi. All rights reserved.</p>
+          <a className="text-blue-400" href="https://www.kaptechsolution.com" target="_blank">Design by kaptechsolution </a>
         </div>
       </div>
     </footer>

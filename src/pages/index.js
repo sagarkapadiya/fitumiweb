@@ -33,9 +33,9 @@ export default function Home() {
         </div> */}
 
         {/* section 6 */}
-        <section id='pricing-section'>
+        {/* <section id='pricing-section'>
           <Pricing />
-        </section>
+        </section> */}
 
         <Benefit />
         

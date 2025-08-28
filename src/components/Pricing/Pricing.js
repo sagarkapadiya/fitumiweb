@@ -37,7 +37,7 @@ export default function Pricing() {
             </p>
             <button className="purple-btn w-full justify-center mb-[48px] max-[767px]:mb-[30px]">
               <img src="/assets/buy-icon.svg" />
-              Buy now
+              Subscribe 
             </button>
             <ul>
               <li className="flex items-center gap-[12px] mb-[12px]">
@@ -96,7 +96,7 @@ export default function Pricing() {
             </p>
             <button className="purple-btn w-full justify-center mb-[48px] max-[767px]:mb-[30px]">
               <img src="/assets/buy-icon.svg" />
-              Buy now
+             Subscribe
             </button>
             <ul>
               <li className="flex items-center gap-[12px] mb-[12px]">
@@ -150,7 +150,7 @@ export default function Pricing() {
             </p>
             <button className="purple-btn w-full justify-center mb-[48px] max-[767px]:mb-[30px]">
               <img src="/assets/buy-icon.svg" />
-              Buy now
+              Subscribe
             </button>
             <ul>
               <li className="flex items-center gap-[12px] mb-[12px]">

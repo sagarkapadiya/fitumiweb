@@ -58,6 +58,10 @@ h6 {
   display: flex;
   align-items: center;
   gap: 6px;
+  transition: all 0.5s ease;
+}
+.site_btn:hover{
+  transform: scale(1.05);
 }
 
 .purple-btn {
@@ -538,16 +542,21 @@ p {
   transform: translateY(-10);
 }
 
-.benefits-card p{
+.benefits-card p {
   min-height: 50px;
 }
 
-.benefits-cost-btn{
-    background-color: #4d2f8c54;
-    padding: 10px;
-    border-radius: 5px;
-    width: 100%;
-    text-align: center;
-    color: #4d2f8c;
-    font-weight: 500;
+.benefits-cost-btn {
+  background-color: #4d2f8c54;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  text-align: center;
+  color: #4d2f8c;
+  font-weight: 500;
+}
+
+.copyright-section {
+  border-top: 1px solid #898989;
+  padding-top: 20px;
 }
